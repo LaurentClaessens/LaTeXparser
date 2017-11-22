@@ -1,3 +1,11 @@
+# DEPRECATION
+
+This project is deprecated. It is now merged with pytex.
+
+Please, download [pytex](https://github.com/LaurentClaessens/pytex)
+
+
+
 # Presentation
 
 `LaTeXParser` is a small parser of LaTeX written in Python. It allows to know, in Python, where such and such macro is used and replace the occurrence of a macro by an user-defined string. 
